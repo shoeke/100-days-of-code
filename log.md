@@ -1,22 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 1, 2019
 
-**Today's Progress**: Checking to see how edits are made
+**Today's Progress**: Worked through Treehouse, Web Design Track, CSS Grid, final section on using Firefox developer tools with Grid, and did a Practice grid layout
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Need more practice but makes good sense.
 
-**Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 2, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Working on Skillcrush 206, building CSS for the layout, adding display:flex and beginning to set widths and margins for Unplugged site
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Really confused at least with how Skillcrush has you go through it. Trying to add in images and backgrounds so I can see what I'm doing in the browser. Had to check out Font Awesome, and have the download code I need to link and test out how it works for the icons on the main page.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: www.fontawesome.com
 
 
 ### Day 1: June 27, Monday
