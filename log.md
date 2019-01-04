@@ -1,11 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 1, 2019
+### Day 4: January 4, 2019
 
-**Today's Progress**: Worked through Treehouse, Web Design Track, CSS Grid, final section on using Firefox developer tools with Grid, and did a Practice grid layout
+**Today's Progress**: 
 
-**Thoughts:** Need more practice but makes good sense.
+**Thoughts**
 
+### Day 3: January 3, 2019
+
+**Today's Progress**: Worked a little further on UnPlugged project in 206 Skillcrush. Figured out how to include fontawesome icons. Added in some rough flex layout with a few margins and padding. Need to do the same for the about page and the faq page.
+
+**Thoughts** I find it difficult to exactly replicate how Skillcrush has the code written. Makes more sense if I imitate it in a way that makes sense to me but I'm worried it will further confuse the issue if I need help down the road. 
 
 ### Day 2: January 2, 2019
 
@@ -15,13 +20,14 @@
 
 **Link(s) to work**: www.fontawesome.com
 
+### Day 1: January 1, 2019
 
-### Day 1: June 27, Monday
+**Today's Progress**: Worked through Treehouse, Web Design Track, CSS Grid, final section on using Firefox developer tools with Grid, and did a Practice grid layout
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** Need more practice but makes good sense.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+
+
