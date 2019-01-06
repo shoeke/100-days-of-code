@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
-### Day 4: January 5, 2019
+
+### Day 6: January 6, 2019
+
+**Today's Progress**: Worked on Unplugged. First had to work with git to separate out just the unplugged files into their own repo (instead of the whole responsive 206 group I had it in). Was able to clone it to my local drive, initiate a new repo locally, and then init the remote repo (yeah!!) The problem after that was I was missing some CSS work on the media queries. I was able to figure out (eventually) that I had somehow swapped css files. Worked with flex groups in the tablet layout and got a rough layout going (again — eventually). 
+**Thoughts** My code is probably a mess, but at least I am problem solving step by step.  
+
+### Day 5: January 5, 2019
 
 **Today's Progress**: NO ACTUAL CODING TODAY
 **Thoughts** Slack meeting with the group. Incorporating #100 days into our slack group. Also began Learning how to Learn class through Coursera. 
