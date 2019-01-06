@@ -1,10 +1,15 @@
 # 100 Days Of Code - Log
+### Day 4: January 5, 2019
+
+**Today's Progress**: NO ACTUAL CODING TODAY
+**Thoughts** Slack meeting with the group. Incorporating #100 days into our slack group. Also began Learning how to Learn class through Coursera. 
+
 
 ### Day 4: January 4, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Treehouse workshop on CSS variables. Worked on CSS for layout on Unplugged. I was able to incorporate the css variables for background color dark and background color light.
 
-**Thoughts**
+**Thoughts** Still having issues matching the layout BUT not sure if it's because not all the objects are in yet or whether I just made mistakes earlier on. 
 
 ### Day 3: January 3, 2019
 
