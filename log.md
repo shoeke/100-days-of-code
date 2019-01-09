@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 8, 2019
+
+**Today's Progress**: Finished up the responsive layouts for tablet and desktop on the unplugged project. Starting to get the hang of it. Did the quiz at the end of the section. Not satisfied with the answers. Esp. how should you organize your CSS. The official answer was by section top to bottom, but I swear that they suggested layout, colors, fonts, etc.. Also didn't know know 400 was a normal breakpoint. Oh well. 
+**Thoughts** Moving forward to fonts and colors on the unplugged project tommorow. Since I incorporated background colors and most fonts colors as white already, I'm hoping this should go smoothly. Once the fonts are correct and I can put in font sizes — they layout should hopefully start looking right. Might need to adjust margins and paddings once those are in. By then again, should probably wait until after the images are correctly in place too. 
+
 ### Day 7: January 7, 2019
 
 **Today's Progress**: Instead of working on Skillcrush, I set up a simple webpage to practice specific tasks. Today I set up a 6 block responsive section with flex box.Intend to continue to add specific sections to practice coding. 
