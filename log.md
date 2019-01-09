@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 9, 2019
+
+**Today's Progress**: Working on the font styles for Unplugged. Still trying to use variables for at least the two main fonts so future projects might use variables for main colors and fonts to ease in switching out. 
+**Thoughts** Still messed up trying to find em sizes coming out of PS comps. Measuring the fonts in PS should be accuarate, but doesn't seem to be. I think we know that the px font sizes in PS are not accurate (read somewhere that the px in graphics programs don't quite correlate to web browsers?). In any case suing the measuements to get started and then adjusting by eye. Also the font weights look slightly off as well. Still not quite understanding why we want to use ems and not rems. Maybe I will ask that in the Slack channel.
+
 ### Day 8: January 8, 2019
 
 **Today's Progress**: Finished up the responsive layouts for tablet and desktop on the unplugged project. Starting to get the hang of it. Did the quiz at the end of the section. Not satisfied with the answers. Esp. how should you organize your CSS. The official answer was by section top to bottom, but I swear that they suggested layout, colors, fonts, etc.. Also didn't know know 400 was a normal breakpoint. Oh well. 
