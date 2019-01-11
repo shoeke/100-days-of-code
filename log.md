@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 10, 2019
+
+**Today's Progress**: Continued on Unplugged. Got all images (except icons) in and sized. Had to adjust many things for the media queries after changes were made to some images I had had as placeholders. 
+**Thoughts** Learned for img tags to be responsive, you can place them inside a figure tag. The img can be set at 100% and the size of the container (figure) can be adjusted). This is what messed up some of my flex boxes, I had to insert a figure element where there was none before and the flex layout got disturbed. I've left a lot of commented out code behind, and probably some repetitive code as well. Will remove and clean at the very end. Should get the icons from fontawesome in next. 
+
 ### Day 9: January 9, 2019
 
 **Today's Progress**: Working on the font styles for Unplugged. Still trying to use variables for at least the two main fonts so future projects might use variables for main colors and fonts to ease in switching out. 
