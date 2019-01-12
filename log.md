@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 12, 2019
+
+**Today's Progress**: Better session today. Put in the font awesome officially. I had roughly figured it out before so I could preview the layout with real images. Had most of it right except did not place them inside a container. SC suggested using the <p> tag. I think with the features icons I had them in a figure. In the social icons they were wrapped in an anchor tag. After some playing around I nested the <a> and <i> tags each inside a div. That way I was able to make a round circle background for each icon. Was forced to give exact width and height to use border radius and make the circles. Otherwise they accomodate the shape of each icon. 
+**Thoughts** There was a way to layer 2 fontawesome icons but it looked messier than just formatting the parent div. 
+  PS. Want to work on creative css soon!! 
+  
+### Day 11: January 11, 2019
+
+**Today's Progress**: Shorter day today. Did work on Unplugged - honestly forgot to write down what I did and now can't quite remember. I played with the map iframe because it didn't look quite right. Adjusted a few things. 
+**Thoughts** There seems to be a weird lag when I load the page with the map embedded. Especially if I'm using the Dev tools, makes it really hard to scroll down and see the whole page. 
+
 ### Day 10: January 10, 2019
 
 **Today's Progress**: Continued on Unplugged. Got all images (except icons) in and sized. Had to adjust many things for the media queries after changes were made to some images I had had as placeholders. 
