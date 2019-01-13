@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 13, 2019
+
+**Today's Progress**: Cool! I worked on my first pure css image. I got stuck for the longest time not understanding why the z-index was not working! Turned out I forgot the . to make my class selector in css. Duh!! Set up my first little animal css in codepen. Also my first time using that tool. I think I like it. It's especially good for css illustrations since you can preview as you work. Would like to do the challenge everyday, but I think that might be too too much for girl!! 
+**Thoughts** I would love to focus on what I think is referred to as creative css and animations. Besides these tuts which I can access through coding-artist.teachable.com, there is a nice tut in Lynda.com and I'm sure some on SkillShare. I'll try to work them in! 
+
 ### Day 12: January 12, 2019
 
 **Today's Progress**: Better session today. Put in the font awesome officially. I had roughly figured it out before so I could preview the layout with real images. Had most of it right except did not place them inside a container. SC suggested using the <p> tag. I think with the features icons I had them in a figure. In the social icons they were wrapped in an anchor tag. After some playing around I nested the <a> and <i> tags each inside a div. That way I was able to make a round circle background for each icon. Was forced to give exact width and height to use border radius and make the circles. Otherwise they accomodate the shape of each icon. 
