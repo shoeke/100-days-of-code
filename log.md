@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 14, 2019
+
+**Today's Progress**: Back to UnPlugged. I went through and validated html. Turns out that html5 is a bit fussy about the comments. So wherever I had a line of hypens to make a comment stand out (ex: <!------------------- HEADER --------------> ) it would flag it. I used spaces instead so now they look like this ( <!--          HEADER        -->). Also found out that the css validator doesn't like css variables, even though they are accepted across the board on browsers. Turns out this had been a know issue for over a year. Online advice was just to ignor the parse error message as long as the browser read it correctly. 
+**Thoughts** Still left on unplugged, I need to test in different browsers. I want to try and clean up the css for the .content-wrappers. Made a chart of all the variations of width in each section in each media query. I think I can set one standard width per query and just have one or two sections vary to reduce the repeating code. 
+
 ### Day 13: January 13, 2019
 
 **Today's Progress**: Cool! I worked on my first pure css image. I got stuck for the longest time not understanding why the z-index was not working! Turned out I forgot the . to make my class selector in css. Duh!! Set up my first little animal css in codepen. Also my first time using that tool. I think I like it. It's especially good for css illustrations since you can preview as you work. Would like to do the challenge everyday, but I think that might be too too much for girl!! 
