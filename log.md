@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 15, 2019
+
+**Today's Progress**: Back to UnPlugged. Tried to straighten out the content-wrappers to make them cohesive and it feels just as bad as before. My major issue I'm still having is when the screen size moves into desktop 1200 and beyond, the footer content and the contact-content of the about page are not lining up correctly. Started not working smart and need to walk away for today. Other than that it's testing in Chrome and in Firefox just fine. 
+**Thoughts** Going to try and work through the lining up one more time on a fresh day. After that, once I run it through on Safari, I should probably run it through the validators again and then SHIP IT!!!!
+
+
 ### Day 14: January 14, 2019
 
 **Today's Progress**: Back to UnPlugged. I went through and validated html. Turns out that html5 is a bit fussy about the comments. So wherever I had a line of hypens to make a comment stand out (ex: <!------------------- HEADER --------------> ) it would flag it. I used spaces instead so now they look like this ( <!--          HEADER        -->). Also found out that the css validator doesn't like css variables, even though they are accepted across the board on browsers. Turns out this had been a know issue for over a year. Online advice was just to ignor the parse error message as long as the browser read it correctly. 
