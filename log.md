@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 16, 2019
+
+**Today's Progress**: It was a dark and stormy night. Still got my coding in. Mostly fixed the Unplugged site. It's running well on all 3 browsers. It is just still bugging me that the about page does not line up well at times between tablet to desktop. The contact area looks funky and doesn't quite line up with the footer. Finally left it at good-enough, after the class video said it doesn't have to be perfect. 
+**Thoughts** Need to get through the final testing section. I think I did most of them, but will go over with fresh eyes tomorrow and hope to finally complete this. Need to get through Bootstrap and Sass tuts next. I'd like to take another crack at JS also. Wordpress waits after that. 
+
 ### Day 15: January 15, 2019
 
 **Today's Progress**: Back to UnPlugged. Tried to straighten out the content-wrappers to make them cohesive and it feels just as bad as before. My major issue I'm still having is when the screen size moves into desktop 1200 and beyond, the footer content and the contact-content of the about page are not lining up correctly. Started not working smart and need to walk away for today. Other than that it's testing in Chrome and in Firefox just fine. 
