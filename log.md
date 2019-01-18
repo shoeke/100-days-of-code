@@ -57,8 +57,6 @@
 **Today's Progress**: Instead of working on Skillcrush, I set up a simple webpage to practice specific tasks. Today I set up a 6 block responsive section with flex box.Intend to continue to add specific sections to practice coding. 
 **Thoughts** Add images to make them responsive over the next few days.  
 
-### Day 5: January 5, 2019
-
 ### Day 6: January 6, 2019
 
 **Today's Progress**: Worked on Unplugged. First had to work with git to separate out just the unplugged files into their own repo (instead of the whole responsive 206 group I had it in). Was able to clone it to my local drive, initiate a new repo locally, and then init the remote repo (yeah!!) The problem after that was I was missing some CSS work on the media queries. I was able to figure out (eventually) that I had somehow swapped css files. Worked with flex groups in the tablet layout and got a rough layout going (again — eventually). 
