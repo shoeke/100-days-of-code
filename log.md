@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 17, 2019
+
+**Today's Progress**: Not as much progress today. I did read all the Skillcrush material on testing and made notes but did not go thru the website Unplugged with it yet. Hopefully tomorrow. I went into Treehouse for the first time in a while and did the first section for Bootstrap. Will continue that over the next week.  
+**Thoughts** Testing tomorrow and more Bootstrap over the week. I'd like to do some research and find out how to read other peoples web code, forensics- like. When I look at dev tools can I know it's bootstrap, or wp or what framework they may have used. How can I decipher it better? 
+
 ### Day 16: January 16, 2019
 
 **Today's Progress**: It was a dark and stormy night. Still got my coding in. Mostly fixed the Unplugged site. It's running well on all 3 browsers. It is just still bugging me that the about page does not line up well at times between tablet to desktop. The contact area looks funky and doesn't quite line up with the footer. Finally left it at good-enough, after the class video said it doesn't have to be perfect. 
