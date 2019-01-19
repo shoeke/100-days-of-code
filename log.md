@@ -2,7 +2,7 @@
 
 ### Day 18: January 18, 2019
 
-**Today's Progress**:FINISHED 26 Unplugged!!!Finally. I think it looks pretty good. Learn some great testing sites including Google Mobile Tester, Matt Kesley responsive tester, and I tried to download Xcode but it needed the Mojave op system and I'm currently using Sierra and am waiting to upgrade because I keep hearing there are lots of issues including slowing down of the system. Also got through a good section of the Treehouse Web Devel track doing the Bootstrap section. 
+**Today's Progress**:FINISHED 206 Unplugged!!!Finally. I think it looks pretty good. Learn some great testing sites including Google Mobile Tester, Matt Kesley responsive tester, and I tried to download Xcode but it needed the Mojave op system and I'm currently using Sierra and am waiting to upgrade because I keep hearing there are lots of issues including slowing down of the system. Also got through a good section of the Treehouse Web Devel track doing the Bootstrap section. 
 **Thoughts** Would like to keep going on Treehouse and finish the bootstrap and I think the Sass section. I could get a head start on wordpress or more likely spend a week trying to go back over javaScript yet again. 
 
 
