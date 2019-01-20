@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 19, 2019
+
+**Today's Progress**:No real hands on coding today. What did I do? Trying to remember bc I feel like I did a good amount of reading on the subject. I checked on the FCC forum and was reading entries on other people who struggle with learning js. I did discover I am not allow. Two entries directed me to a site called Watch and Code. This young man is right here in Sunnyvale!! He says (and I completely agree) there is a ton of info available covering the beginning pieces of JS and of course a lot of advanced info, but nothing in the middle to help you string it all together. That's completely true. NOw I'm thinking most tech is like that (and art) Here are all the separate, primary pieces, now you go figure out how to use them. Gonna try doing his course over the next week and see how it goes. 
+**Thoughts** Besides js, I also want to finish bootstrap and sass on treehouse. That should make me ready to take on Wordpress in February!! 
+
 ### Day 18: January 18, 2019
 
 **Today's Progress**:FINISHED 206 Unplugged!!!Finally. I think it looks pretty good. Learn some great testing sites including Google Mobile Tester, Matt Kesley responsive tester, and I tried to download Xcode but it needed the Mojave op system and I'm currently using Sierra and am waiting to upgrade because I keep hearing there are lots of issues including slowing down of the system. Also got through a good section of the Treehouse Web Devel track doing the Bootstrap section. 
