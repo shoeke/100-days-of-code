@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 20: January 20, 2019
+
+**Today's Progress**: Worked some more on the bootstrap lessons in TreeHouse. It's going real slow with me trying to follow along in the workspace and jumping over to getbootstrap to grab the code. May continue on with the lessons without following along in real time. I wanted it to be helpful, but it's a bit distracting. Also did a bit more in JavaScript with Watch and Code.
+**Thoughts** JavaScript reviewed arrays with indexing and push and splice. Did a practice on treehouse using those as well. Will continue on with these lessons. In bootstrap, worked on buttons, nav and navbar, and another menu for footer. Containers will maintain widths across the site. JS can be dropped in as well as elements with styles. Most of all I need to review the widths again. I know they are based on a 12 column grid, and you can tell it to use a set number of columns that begins at a certain breakpoint and goes up from there. Margins use the m with my being the margin top and bottom, and mx being margin left and right. Individual code is mt, mr, mb, ml for each side. Padding uses the exact same coding with the p substituted for the m. 
+
 ### Day 19: January 19, 2019
 
 **Today's Progress**:No real hands on coding today. What did I do? Trying to remember bc I feel like I did a good amount of reading on the subject. I checked on the FCC forum and was reading entries on other people who struggle with learning js. I did discover I am not allow. Two entries directed me to a site called Watch and Code. This young man is right here in Sunnyvale!! He says (and I completely agree) there is a ton of info available covering the beginning pieces of JS and of course a lot of advanced info, but nothing in the middle to help you string it all together. That's completely true. NOw I'm thinking most tech is like that (and art) Here are all the separate, primary pieces, now you go figure out how to use them. Gonna try doing his course over the next week and see how it goes. 
