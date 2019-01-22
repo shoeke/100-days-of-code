@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 21: January 21, 2019
+
+**Today's Progress**: Worked some more on the bootstrap lessons in TreeHouse.Did another section that covered cards, which reminded me of figures in html. They can have different combos of images headlines and text but they organize super nicely together. Also list groups, exactly what they sound like. I find them a little more confusing although it looks like they are more improvised so more flexible. Then there was Modals which were like pop up windows and require javaScript. One more section to complete and that is on making forms. 
+**Thoughts** It's a bit confusing knowing which snippets to copy. Also, is there a way to only keep the css you end up using, or do you always have a huge css file with bootstrap? Did a tiny bit of JS today. Need to work on that as well. 
+
 ### Day 20: January 20, 2019
 
 **Today's Progress**: Worked some more on the bootstrap lessons in TreeHouse. It's going real slow with me trying to follow along in the workspace and jumping over to getbootstrap to grab the code. May continue on with the lessons without following along in real time. I wanted it to be helpful, but it's a bit distracting. Also did a bit more in JavaScript with Watch and Code.
