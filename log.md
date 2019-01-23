@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log (# missed days = 2)
+# 100 Days Of Code - Log (# missed days = 2, # completed = 21)
 
 ### Day 23: January 23, 2019
 
