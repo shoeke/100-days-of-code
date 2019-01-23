@@ -1,4 +1,17 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log (# missed days = 2)
+
+### Day 23: January 23, 2019
+
+**Today's Progress**:Finished the Bootstrap4 section of Treehouse. I think it's very useful, just need to get used to finding what you are looking for and pratice doing the correct css selections in order to customize so there aren't so many identical websites out there. Just need to do the SASS section and I will have completed the whole Treehouse Web Design Track. It says I have 4 hours left!!!
+**Thoughts** Read an interesting response in the FCC forum this morning regarding trying to find work when you are new to this at an older age. Their take was that you need to specialize in something very specific. They mentioned motion graphics or animation and I can't help but think that would be very interesting to me. Especially the .svg and css animations. Will try to focus on that. Also saw and ad for a JUNIOR WEB DEV that looked fun in Irvine. However, even though it was junior, the list of skills was so intimidating. Looks like I'll never be caught up. Errrrr. Trying to get a wide shallow coverage and then dive in deep somewhere. 
+
+
+
+### Day 22: January 22, 2019
+
+**Today's Progress**:No true coding or even coding class today. Got to do a floorplan and there was Trev's birthday. Did work on MOOC for Mindshift a bit. 
+**Thoughts** Onward and upward. 
+
 
 ### Day 21: January 21, 2019
 
