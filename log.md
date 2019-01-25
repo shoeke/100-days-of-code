@@ -1,4 +1,10 @@
-# 100 Days Of Code - Log (# missed days = 2, # completed = 21)
+# 100 Days Of Code - Log (# missed days = 2, # completed = 22)
+
+### Day 24: January 24, 2019
+
+**Today's Progress**:Worked on Sass in Treehouse for 2 hours. I really like it. I think I'm a CSS nerd. Did a lot of reading today. 
+**Thoughts** Reading and researching I know I'm really into CSS, including SVG and pure css art and animation and motion graphics. The SASS class was super cool and I'm getting excited about all the stuff css can do. I watched a Rachel Andrew talk all about css layout in 2019 and actually understood almost everything she was talking about!! Pulled up some articles she reccommended I want to follow up with. 1. Understanding Logical Properties And Values 2. How Big Is That Box? Understanding Sizing In CSS Layout (both are articles by her in Smashing) 3. More accessible markup with display: contents (by Hidde de Vries in code .) Made a long list of tuts to watch in Lynda.com regarding working with media assets in css and general asset development on the web. I think this is where I want to focus!!!
+
 
 ### Day 23: January 23, 2019
 
