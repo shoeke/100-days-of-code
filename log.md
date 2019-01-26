@@ -1,4 +1,14 @@
-# 100 Days Of Code - Log (# missed days = 2, # completed = 22)
+# 100 Days Of Code - Log (# missed days = 2, # completed = 24)
+
+### Day 26: January 26, 2019
+
+**Today's Progress**:FINSHED SASS BASICS AND ENTIRE WEB DESIGN TRACK IN TREEHOUSE. I was utterly crushed that there was no badge or success screen in TH after finishing the whole track!! That's bullshit!! Dopamine levels are low!!! I pushed through on the end of Sass and think I actually have a pretty decent understanding. Just a bit hazy on the more complex mixins with maps and loopings and conditional statements. The same areas I struggle in JS. Slowly getting it handled. 
+**Thoughts** Not sure if SCSS is coming far and fast enough to not need Sass anymore. A bit confused on that!! Already seems like SCSS is used in writing both CSS straight up and in SASS. 
+
+### Day 25: January 25, 2019
+ 
+**Today's Progress**:continued work on Sass Basics in Treehouse and did some deep dives into articles recc by Rachel Andrew about css layout. Watched some Lynda videos on using tiling .svg graphics and animation in css. 
+**Thoughts** There seems like so much potential repetition in css animations and pure css images, I would think those projects would pair really well with Sass. 
 
 ### Day 24: January 24, 2019
 
