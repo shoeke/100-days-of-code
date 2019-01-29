@@ -1,4 +1,16 @@
-# 100 Days Of Code - Log (# missed days = 2, # completed = 24)
+# 100 Days Of Code - Log (# missed days = 2, # completed = 26)
+
+### Day 28: January 28, 2019
+
+**Today's Progress**:Continued on Treehouse Modular CSS, just a short section and quiz. Started making flash cards for the main ideas and working on a memory palace for them using Walnut Ave.. So far I have variables beginning with a dollar sign made from puffy baloon letters I'm pulling out of the mailbox with a color and semi-colon stuck to it. Then I have my nesting in the hall entry closet. Kid's beds are stacked up, nested below the parent bed. I have to slide them to the right to nest them correctly. Some of the are pseudo kids (goats in the beds) so they get an & balloon letter and : stuck to the left side of them. On the little window is a rollershade with a balloon letters @extend hanging from the bottom. If you pull the shade down you will see css properties filled out for you. Then I go to the bookshelf in the LR. There is a big book with a hand mixer stuck to the spine called @mixin and it's a recipe book. When you try to pull it out, stuck to the back is another book called @include. 
+
+Also worked a bit more on the Skillcrush 100, reviewing the direction for the portfolio website for "Dorothy". 
+**Thoughts** Really hope this Sass memorizing is the key for moving forward with coding. 
+
+### Day 27: January 27, 2019
+ 
+**Today's Progress**:Started going a bit further in Sass in Treehouse called Modular CSS with Sass. I'm trying to really write down, understand and memorize a bunch of the Sass fundmentals. So far these make the most sense and I know there is some overlap with conditionals, loops and formulas. So hopefully if I can get a really firm grasp here, I can apply that thinking to js and php and just need to memorize new syntax. I also began 100 section in Skillcrush which is a newly added section on web design and what needs to happen before the coding. 
+**Thoughts** Still need to work on actual pages!!!
 
 ### Day 26: January 26, 2019
 
