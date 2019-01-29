@@ -1,4 +1,13 @@
-# 100 Days Of Code - Log (# missed days = 2, # completed = 26)
+# 100 Days Of Code - Log (# missed days = 2, # completed = 27)
+
+
+### Day 29: January 29, 2019
+
+**Today's Progress**:Did a tiny bit on Treehouse Modular CSS and finished up that section. I will need to go back and review again. I understand (I think) the mixins and most of the formulas and @extends in and of themselves, but the lessons use them all together and that is where I start to lose it. Setting a variable in one partial, that makes an extention somewhere and a mixin somewhere else  . . . those four working memory slots are plugged up!!
+
+Spent a good chunk of time on the Skillcrush 100 module working in XD. It's pretty intuitive now that I've got back to it, and it's nice to work on web stuff that's not coding directly. About 40% of the way through, so I'm hoping to finish it before the 1st so I can start WordPress with a clean slate. 
+
+**Thoughts** More and more I need to start applying a synthesizing these skills. Still need to circle back to programming skills as well. 
 
 ### Day 28: January 28, 2019
 
