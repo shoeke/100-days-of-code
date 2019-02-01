@@ -1,5 +1,12 @@
-# 100 Days Of Code - Log (# missed days = 2, # completed = 27)
+# 100 Days Of Code - Log (# missed days = 2, # completed = 29)
 
+### Day 31: January 31, 2019
+
+**Today's Progress**:Finished the Skillcrush Dorothy portfolio project. Would like to go back later and actually code the design comp. The mobile version is almost complete as well. Starting WordPress tomorrow!!
+
+### Day 30: January 30, 2019
+
+**Today's Progress**:Focused on the Skillcrush 100 class again today. Moving forward with using Adobe XD and creating wireframe and prototype. Need to check on the prototype to see if you can incorporate visuals such as animations and pseudo-classes. 
 
 ### Day 29: January 29, 2019
 
