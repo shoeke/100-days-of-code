@@ -1,4 +1,12 @@
-# 100 Days Of Code - Log (# missed days = 2, # completed = 29)
+# 100 Days Of Code - Log (# missed days = 3, # completed = 30)
+
+### Day 33: February 2, 2019
+
+**Today's Progress**:After a lot of troubleshooting I finally got MAMP and Wordpress installed. So at least I have a blank slate moving forward. 
+
+### Day 32: February 1, 2019
+
+**Today's Progress**:Not counting today. I opened up the very start of Wordpress on Skillcrush, started the install process and promptly got stuck. 
 
 ### Day 31: January 31, 2019
 
