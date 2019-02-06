@@ -1,4 +1,16 @@
-# 100 Days Of Code - Log (# missed days = 3, # completed = 30)
+# 100 Days Of Code - Log (# missed days = 4, # completed = 32)
+
+### Day 36: February 5, 2019
+
+**Today's Progress**: Pretty big progress on WordPress today. Getting into a bit of the php. Really liking it so far, of course mostly copying and pasting in code as directed. So glad I was patient and got the html, css and a dash of Sass and PHP under my belt. Lot's of stuff already made sense right out of the chute, like partials (like the Sass file partials), variables, and the template tags that worked just like methods or formulas. 
+
+### Day 35: February 4, 2019
+
+**Today's Progress**: Dove into the beginning of 103 Wordpress. Going smoothly for the most part. Trying to go back and forth between Skillcrush and Treehouse. 
+
+### Day 34: February 3, 2019
+
+**Today's Progress**:Looks like I missed today too! Had to catch up on Design Drawing and do a floorplan!!
 
 ### Day 33: February 2, 2019
 
