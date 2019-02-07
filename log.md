@@ -1,4 +1,12 @@
-# 100 Days Of Code - Log (# missed days = 4, # completed = 32)
+# 100 Days Of Code - Log (# missed days = 4, # completed = 33)
+
+### Day 37: February 6, 2019
+
+**Today's Progress**: Hitting the harder parts of wordPress and so moving a bit slower. Worked with loops today, which I kinda get. Well I think I generally get the syntax 1. outside wrap an if statement 2. Nest a wrap of a while statement 3. Inside put all the stuff you want. Make sure to close the while, endwhile and close the if, endif. Template tags are used to get the parts you need. Those seem like methods from Js, so they generally make sense to me. 
+
+Worked a bit on getting my localwp folder under version control. Was able to make a gitignore file in the directory using the terminal, and then using vim to text edit the file right in the terminal. Thought it didn't work, but found I can hit command-shift-. in the finder to see hidden files (I think it's command). 
+
+Started the very beginning of debugging in WP. 
 
 ### Day 36: February 5, 2019
 
