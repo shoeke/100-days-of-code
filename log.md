@@ -1,4 +1,8 @@
-# 100 Days Of Code - Log (# missed days = 4, # completed = 33)
+# 100 Days Of Code - Log (# missed days = 4, # completed = 34)
+
+### Day 38: February 7, 2019
+
+**Today's Progress**: Long back and forth with Ann on Skillcrush but came out with a much better understanding of looping!
 
 ### Day 37: February 6, 2019
 
