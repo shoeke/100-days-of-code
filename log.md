@@ -1,4 +1,11 @@
-# 100 Days Of Code - Log (# missed days = 4, # completed = 34)
+# 100 Days Of Code - Log (# missed days = 4, # completed = 35)
+
+### Day 39: February 8, 2019
+
+**Today's Progress**: Long back and forth with Ann on Skillcrush AGAIN!!Was working on the debugging unit and got jacked. So what I did was there was a category.php file to download, but it was inside a folder. I dropped it into the themes folder BUT it was still inside the folder it came in "Looping Challenge". The instructions did not say to take it out, although it did say put the file in so my bad. Anyway, since I didn't see the category.php file I thought it was in the wp root (not the theme root) so I edited a different category.php file. BAM no good! Can't touch those files apparently. Luckily I had gone to the trouble of backing up the files to github the other day so I just copied back the old category.php and we were back in business. I'm just still having trouble getting the big picture of how all these files interact and working with local vs. live sites. 
+
+What I'd like to do is clone the CW site and work on a local version. I'm afraid if I go onto the hosting site I will mess something up. The alternative is to build a new site, but right now it's in a paid theme. Researched jsbin a bit today and have been down so many paths I need to take a break now. 
+
 
 ### Day 38: February 7, 2019
 
