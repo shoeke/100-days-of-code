@@ -1,4 +1,21 @@
-# 100 Days Of Code - Log (# missed days = 4, # completed = 35)
+# 100 Days Of Code - Log (# missed days = 6, # completed = 37)
+
+### Day 43: February 12, 2019
+
+**Today's Progress**: Did a lot of replying in Slack today. No actual coding. 
+
+### Day 42: February 11, 2019
+
+**Today's Progress**: Slack replies worked on the domain. No real coding today.
+
+
+### Day 41: February 10, 2019
+
+**Today's Progress**: Kept working on Wordpress until I hit the point where we need to go live. I research and ended up choosing HostGator and signing up. Got that much accomplished but can't get the domain moved over. 
+
+### Day 40: February 9, 2019
+
+**Today's Progress**: Worked on WordPress lessons. Styling the pages and adding plugins. Was able to go into the css and restyle the popular post plugin so it looked how I wanted. 
 
 ### Day 39: February 8, 2019
 
