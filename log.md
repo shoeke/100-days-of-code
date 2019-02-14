@@ -1,4 +1,8 @@
-# 100 Days Of Code - Log (# missed days = 6, # completed = 37)
+# 100 Days Of Code - Log (# missed days = 6, # completed = 38)
+
+### Day 44: February 13, 2019
+
+**Today's Progress**: Kinda all over the map in WordPress. Worked for hours trying to make custom changes to the site before I try to make it live. Not exactly sure what I accomplished when all was said and done. I did work with rearranging the front page to add in an image and pull the button that links to the blog page out of it's loop and into a new one so I could control the width separately. FAiled at the contacts page. Would like to have social media there and eventually an email form. Seems like it needs it's own .php file to make it different than the theme's page set up, but I was getting confused!!
 
 ### Day 43: February 12, 2019
 
