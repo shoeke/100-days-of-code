@@ -1,4 +1,8 @@
-# 100 Days Of Code - Log (# missed days = 6, # completed = 41)
+# 100 Days Of Code - Log (# missed days = 6, # completed = 42)
+
+### Day 48: February 17, 2019
+
+**Today's Progress**: Worked on FreeCodeCamp JS. Did another chunk and got into if else statements. I think it's all sinking in. The parameters make a lot more sense. Then I went back to work on Skillcrush 107 and making progress there to with moods and feels and colors. Still continuing today but wanted to take a break and log progress here. 
 
 ### Day 47: February 16, 2019
 
