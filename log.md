@@ -1,4 +1,16 @@
-# 100 Days Of Code - Log (# missed days = 6, # completed = 38)
+# 100 Days Of Code - Log (# missed days = 6, # completed = 41)
+
+### Day 47: February 16, 2019
+
+**Today's Progress**: Worked on FreeCodeCamp JS. Got a good chunk of the way through. Everything at least familar so far. Variables down local and global, arrays and methods to add and subtract from arrays. .pop(), .shift(), .unshift() and .length() . Just started back into formulas. Next chunk is if else statements. Also went back to Skillcrush 107. Did a wireframe on paper, then put it into XD (instead of UXPin) and then rebuilt in PS. Would like to finish 107 and the js review before the HostGator gets going again. 
+
+### Day 46: February 15, 2019
+
+**Today's Progress**: Worked on wordpress. Went back over some SkillCrush and worked on template hierarchy and making custom pages. Reviewed the Kadence class and worked on adding a custom contact page. Experimented with changes in the file vs. changes in the admin editor. What you make in the admin area gets imported with the .content() tag in the page. 
+
+### Day 45: February 14, 2019
+
+**Today's Progress**: Worked on the Treehouse site for wordPress topics. 
 
 ### Day 44: February 13, 2019
 
