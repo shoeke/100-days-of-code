@@ -1,8 +1,76 @@
-# 100 Days Of Code - Log (# missed days = 6, # completed = 42)
+# 100 Days Of Code - Log (# missed days = 8, # completed = 57)
+
+### Day 65: March 6, 2019
+
+**Today's Progress**: A SMARTER WAY TO LEARN JAVASCRIPT Chp 63 - 68
+
+I've been working diligently but became completely lax on keeping track of what was done each day. I've estimated I've missed maybe 3 days of coding but I doubt if that's true. Anyway, trying to keep honest. I have been tackling javaScript YET AGAIN. I was getting somewhere (I thought with that p5.js (for animations) and I do like it, but it is it's own thing. Through our Slack group I got a recc. for the SMARTER WAY html/css book. That reminded me that I thought I had a sample of the javaScript version. Better yet I had the whole book on Kindle and didn't realize it. The TOC was broken so it only looked like 2 chapters were there (prob why I thought I just had the sample). Started running through a few chapters and doing the quiz for each chapter. Things were clicking and humming. I decided to start from the beginning and I think I'm a few days from completing it. Getting to the point where I'm holding so much content in my head, I'm worried it will evaporate as soon as I'm done. I was able to get one small Js feature working in my Jubilee responsive redo and I hope to add more to keep practicing. I want to redo my LOL Cat project (writing on my own from scratch and changing it up, and then hopefully finishing that election project so I can be officially done with that class in Skillcrush). 
+**Thoughts** Want to be done with the book before my SD trip next week. Will try to be better about tracking again. 
+### Day 64: March 5, 2019
+
+**Today's Progress**: A SMARTER WAY TO LEARN JAVASCRIPT Chp 57 - 61
+
+### Day 63: March 4, 2019
+
+**Today's Progress**: A SMARTER WAY TO LEARN JAVASCRIPT Chp 51 - 56
+
+### Day 62: March 3, 2019
+
+**Today's Progress**: A SMARTER WAY TO LEARN JAVASCRIPT Chp 48 - 50
+
+### Day 61: March 2, 2019
+
+### Day 60: March 1, 2019
+
+**Today's Progress**: A SMARTER WAY TO LEARN JAVASCRIPT Chp 43 - 47
+
+### Day 59: February 28, 2019
+
+### Day 58: February 27, 2019
+
+**Today's Progress**: A SMARTER WAY TO LEARN JAVASCRIPT Chp 42
+working on LinkedIn presence. Still need to add summary
+
+### Day 57: February 26, 2019
+
+**Today's Progress**: A SMARTER WAY TO LEARN JAVASCRIPT Chp 38 - 41
+Reboot Accel. job panel in Menlo
+
+### Day 56: February 25, 2019
+
+**Today's Progress**: A SMARTER WAY TO LEARN JAVASCRIPT Chp 31 - 37
+
+### Day 55: February 24, 2019
+
+**Today's Progress**: A SMARTER WAY TO LEARN JAVASCRIPT Chp 24 - 30
+and Creating Web Animations with Kirupa Chinnathambi
+
+
+### Day 54: February 23, 2019
+
+**Today's Progress**: A SMARTER WAY TO LEARN JAVASCRIPT Chp 11 - 23
+
+
+### Day 53: February 22, 2019
+**Today's Progress**: A SMARTER WAY TO LEARN JAVASCRIPT Chp 8 - 10
+
+### Day 52: February 21, 2019
+**Today's Progress**: A SMARTER WAY TO LEARN JAVASCRIPT Chp 1 - 7
+working with LEARN JAVASCRIPT WITH P5.JS by Engin Arslan
+
+### Day 51: February 20, 2019
+working with LEARN JAVASCRIPT WITH P5.JS by Engin Arslan
+and Creating Web Animations with Kirupa Chinnathambi
+
+### Day 50: February 19, 2019
+
+### Day 49: February 18, 2019
+Worked on SkillCrush 107 
 
 ### Day 48: February 17, 2019
 
 **Today's Progress**: Worked on FreeCodeCamp JS. Did another chunk and got into if else statements. I think it's all sinking in. The parameters make a lot more sense. Then I went back to work on Skillcrush 107 and making progress there to with moods and feels and colors. Still continuing today but wanted to take a break and log progress here. 
+
 
 ### Day 47: February 16, 2019
 
