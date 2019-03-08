@@ -1,4 +1,9 @@
-# 100 Days Of Code - Log (# missed days = 8, # completed = 57)
+# 100 Days Of Code - Log (# missed days = 8, # completed = 58)
+
+### Day 66: March 7, 2019
+
+**Today's Progress**: A SMARTER WAY TO LEARN JAVASCRIPT Chp 69 - 72
+Had a Zoom meeting with Maura, Mallory and Adriana. Trying to finish the JS book over the next few days. Return to Jubilee responsive site and rewrite the LOL Cats project. 
 
 ### Day 65: March 6, 2019
 
