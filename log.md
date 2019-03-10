@@ -1,4 +1,17 @@
-# 100 Days Of Code - Log (# missed days = 8, # completed = 58)
+# 100 Days Of Code - Log (# missed days = 8, # completed = 60)
+
+### Day 68: March 9, 2019
+
+**Today's Progress**: A SMARTER WAY TO LEARN JAVASCRIPT Chp 73 - 75
+Got it!! Went back to where I was still understanding at the beginning of Object Literals. Went and reviewed 1. Building an object literal, 2. Building Constructor Function, 3. Building Object Literal with a Method as a property, 4. Building a Constructor Function with a Method as a property (Found out 2 key pieces. a) The method does not execute when the Object gets built with the constructor function. First you create the object by calling the constructor function, THEN you call the method for that particualar object. b) It's better NOT to include the method in the constuctor function BECAUSE since it does not execute during the build - each object literal made from that constructor function will have the exact same method as a property so instead you build the object literal and then use a prototype to add the executed method as a property.5. practice the calling code for constructor functions ie building new object literals. 6. practice calling code for constructors with methods and THEN running the method call for that particular object. 
+
+Went on to learn about prototypes and how they are better to use when the property will be the same value for all (or most) the the objects you are creating. This is always true for methods and can be true for reg. properties as well. Learned how to check if an object has a particular property and how to get a list of all the properties of an object. Finally how to test to see if a particular property was owned originally by an object or inherited through prototyping.  
+
+### Day 67: March 8, 2019
+
+**Today's Progress**: A SMARTER WAY TO LEARN JAVASCRIPT Stuck
+Got really stuck today and couldn't move forward. Got confused regarding adding methods via constructor functions. Went on a complete mind melt and couldn't remember Object Literals i had already learned. Did a little reading in learning Javascript by Tim Wright and it was good for some big picture info. Like why you want js to load last on a webpage. JS actually blocks the load - nothing else can get through. So it's better functionality to have the whole page load first and then crunch on the js. Also talks about js a behavior layer. It should only be added on after the html and css are full functioning and can be used in the event js can't run. So Layer 1 = Structure = html. Layer 2 = Design = CSS. Layer 3 = Behavior = JS. Also, things that make a request from server to load a page (each file page (index.html, style.css, behave.js) each takes an individual request as does each image file). Client can only load one or two at a time. Keep the number of requests down in order to have a good load time. Also AJAX is something that can refresh a small area of your screen rather than sending in a all new file requests to the server to reload. Helps with performance. 
+
 
 ### Day 66: March 7, 2019
 
